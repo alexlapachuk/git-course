@@ -7,7 +7,7 @@ int main() {
     int amountOfSymbols;
     int lineOfSymbols;
     char typeOfSymbol;
-    int a = 2;
+    
     cout << "Выберите количество символов" << endl;
 
     cin >> amountOfSymbols;
